@@ -191,10 +191,10 @@ const Navigation = () => {
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-4 sm:gap-6 lg:gap-8">
             {[
-              { id: "about", label: "About" },
-              { id: "solutions", label: "Solutions" },
-              { id: "work", label: "Work" },
-              { id: "contact", label: "Contact" },
+              { id: "about", label: "About", desc: "" },
+              { id: "solutions", label: "Solutions", desc: "" },
+              { id: "work", label: "Work", desc: "" },
+              { id: "contact", label: "Contact", desc: "" },
             ].map((item) => (
               <motion.button
                 key={item.id}
