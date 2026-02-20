@@ -6,9 +6,7 @@ import { useTheme } from "next-themes";
 import {
   ArrowRight,
   ChevronDown,
-  Bot,
   Brain,
-  Code,
   Database,
   Zap,
   TrendingUp,
@@ -19,21 +17,11 @@ import {
   MessageSquare,
   Shield,
   BarChart3,
-  Globe,
   Sparkles,
-  Layers,
   Send,
   Quote,
   Star,
-  Calendar,
-  Clock,
-  User,
   Cpu,
-  Rocket,
-  Lightbulb,
-  Network,
-  Terminal,
-  FileText,
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { ThemeToggle } from "@/components/theme-toggle";
