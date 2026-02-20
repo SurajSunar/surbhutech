@@ -15,24 +15,31 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Z.ai Code Scaffold - AI-Powered Development",
-  description: "Modern Next.js scaffold optimized for AI-powered development with Z.ai. Built with TypeScript, Tailwind CSS, and shadcn/ui.",
-  keywords: ["Z.ai", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
-  authors: [{ name: "Z.ai Team" }],
+  title: "SurbhuTech",
+  description:
+    "We architect intelligent systems that think, learn, and evolve. Transform your business with autonomous AI agents and cutting-edge technology.",
+  keywords: [
+    "SurbhuTech",
+    "AI Firm Bhutan",
+    "IT Company Bhutan",
+    "Digital Platform for Innovative solution",
+  ],
+  authors: [{ name: "Surbhutech Team" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "https://surbhutech.vercel.app/sutbhutech_logo.png",
   },
   openGraph: {
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
-    url: "https://chat.z.ai",
-    siteName: "Z.ai",
+    title: "SurbhuTech",
+    description:
+      "We architect intelligent systems that think, learn, and evolve. Transform your business with autonomous AI agents and cutting-edge technology.",
+    url: "https://surbhutech.vercel.app",
+    siteName: "surbhutech.com",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Z.ai Code Scaffold",
-    description: "AI-powered development with modern React stack",
+    title: "SurbhuTech",
+    description: "IT firm based in Bhutan",
   },
 };
 
