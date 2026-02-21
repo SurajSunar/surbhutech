@@ -23,6 +23,7 @@ export const metadata: Metadata = {
     "AI Firm Bhutan",
     "IT Company Bhutan",
     "Digital Platform for Innovative solution",
+    "Best IT firm in Bhutan",
   ],
   authors: [{ name: "Surbhutech Team" }],
   icons: {
